@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/mn_dtr"
+        android:checked="true"
+        android:title="@string/bangun_datar"
+        android:icon="@drawable/bd"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/mn_rng"
+        android:checked="true"
+        android:title="@string/bangun_ruang"
+        android:icon="@drawable/cube"
+        app:showAsAction="ifRoom"/>
+
+</menu>

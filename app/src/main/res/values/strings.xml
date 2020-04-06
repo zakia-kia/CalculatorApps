@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CalculatorApps</string>
+    <string name="bangun_datar">Bangun Datar</string>
+    <string name="bangun_ruang">Bangun Ruang</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi_luas_title">Luas Persegi</string>
+    <string name="persegi_luas">Sisi</string>
+    <string name="hitung">Hitung</string>
+    <string name="persegi_keliling_title">Keliling Persegi</string>
+    <string name="persegi_keliling">Sisi</string>
+    <string name="error_empty_field">Value tidak boleh kosong</string>
+    <string name="persegi_panjang_luas">Panjang</string>
+    <string name="persegi_panjang_lebar">Lebar</string>
+    <string name="persegi_panjang_luas_title">Luas Persegi Panjang</string>
+    <string name="persegi_panjang_keliling_title">Keliling Persegi Panjang</string>
+    <string name="persegi_panjang_keliling">Panjang</string>
+    <string name="persegi_panjang_lebar2">Lebar</string>
+    <string name="jage_luas_title">Luas Jajar Genjang</string>
+    <string name="jage_luas">Alas</string>
+    <string name="jage_luas_tinggi">Tinggi</string>
+    <string name="jage_keliling_title">Keliling Jajar Genjang</string>
+    <string name="jage_keliling">Sisi A</string>
+    <string name="jege_keliling2">Sisi B</string>
+    <string name="trapesium_luas_title">Luas Trapesium</string>
+    <string name="trapesium_luas">Sisi A</string>
+    <string name="trapesium_luas2">Sisi B</string>
+    <string name="trapesium_luas_t">Tinggi</string>
+    <string name="trapesium_keliling_title">Keliling Trapesium</string>
+    <string name="trapesium_keliling1">Sisi AB</string>
+    <string name="jege_keliling_2">Sisi BC</string>
+    <string name="trapesium_keliling_3">Sisi CD</string>
+    <string name="trapesium_keliling_4">Sisi DE</string>
+    <string name="segitiga_luas_title">Luas Segitiga</string>
+    <string name="segitiga_luas">Alas</string>
+    <string name="segitiga_luas_tinggi">Tinggi</string>
+    <string name="keliling_title">Keliling Segitiga</string>
+    <string name="segitiga_keliling">Sisi A</string>
+    <string name="segitiga_keliling2">Sisi B</string>
+    <string name="segitiga_keliling3">Sisi C</string>
+    <string name="kubus_title">Volume Kubus</string>
+    <string name="et_kubus">Rusuk</string>
+    <string name="et_balok1">Panjang</string>
+    <string name="et_balok2">Lebar</string>
+    <string name="et_balok3">Panjang</string>
+    <string name="et_tabung1">Jari-jari</string>
+    <string name="et_tabung2">Tinggi</string>
+    <string name="tabung_title">Volume Tabung</string>
+    <string name="prisma_title">Volume Prisma</string>
+    <string name="kerucut_title">Volume Kerucut</string>
+    <string name="balok_title">Volume Balok</string>
+    <string name="et_prisma1">Luas Alas</string>
+    <string name="et_prisma2">Tinggi</string>
+</resources>
